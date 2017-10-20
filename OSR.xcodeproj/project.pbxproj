@@ -200,6 +200,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Android Industries";
 				TargetAttributes = {
+					DCD4C1F5190B1C0C009B7703 = {
+						DevelopmentTeam = WL4688NT3F;
+					};
 					DCD4C216190B1C0C009B7703 = {
 						TestTargetID = DCD4C1F5190B1C0C009B7703;
 					};
@@ -377,6 +380,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "OSR/OSR-Prefix.pch";
 				INFOPLIST_FILE = "OSR/OSR-Info.plist";
@@ -390,6 +394,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "OSR/OSR-Prefix.pch";
 				INFOPLIST_FILE = "OSR/OSR-Info.plist";
